@@ -7,4 +7,4 @@ big.o: big.c
 fact.o: fact.c
 	gcc -c fact.c
 	
-//this is a make file
+
